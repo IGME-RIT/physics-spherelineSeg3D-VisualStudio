@@ -1,0 +1,74 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(172): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(173): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(174): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(180): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(181): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(182): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(188): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(189): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(190): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(196): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(197): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(198): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(412): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(413): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(430): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+d:\profiles\njp2424\desktop\physics\level6\physics-spherelineseg3d-mastervs2019\spherelineseg_3d\main.cpp(505): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SphereLineSeg_3D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level6\physics-spherelineSeg3D-masterVS2019\SphereLineSeg_3D\Debug\SphereLineSeg_3D.exe
